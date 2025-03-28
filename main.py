@@ -2,8 +2,8 @@ x = int(input())
 y = int(input())
 print(f'{x} + {y} = {x + y}')
 
-
-
+ ##### 수정했음~~~~~~~~~~!!!!!!!!!!!!!!
+#우렐렐레레레레레레레레레레레레
 
 
 #num = input('정수 홋은 소수를 입력하세요: ')
@@ -75,13 +75,3 @@ def find_fruits():
 find_fruits()
 
 
-
-
-
-
-
-
------------------------
-x = int(input())
-y = int(input())
-print(f'{x} + {y} = {x + y}')
